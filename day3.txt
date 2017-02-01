@@ -1,0 +1,16 @@
+HTTP (Hypertext Transfer Protocol)
+ : Application layer communication protocol used to access resources.
+ : Invented by Tim Berners Lee
+ : uses a request - response standard protocol.
+
+OPERATIONS
+ : Connections
+ : Request
+ : Process
+ : Response
+ : Disconnection
+
+HTTP FUNDAMENTALS
+ : HTTP runs on top of TCP/IP, using TCP Port 80 by default
+ : HTTP is based on a client - server architecture
+ 

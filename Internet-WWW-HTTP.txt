@@ -1,0 +1,26 @@
+Internet:
+1972 - Email was born and it was called the "killer app"
+
+WWW(World Wide Web) vs WAIS(Wide Are Information Servers)
+-not linked unlike WWW
+-no interdocument links unlike WWW
+
+HTTP:
+-web servers
+-web clients like browsers
+-Gopher Protocol is a TCP/IP application layer protocol designed for distributing, searching, and retrieving documents over the Internet.
+-Usenet is used for forums.
+-highest level (Application layer)
+-port 80 where web traffic is
+
+HTTP Vesions:
+HTTP 1.1
+RFC 7230 - 7235 (June 2014) - It was rewritten
+	7230 - Message Syntax and Routing
+	7231 - Semantics and Content
+	7232 - Conditional Requests
+	7233 - Age
+	7234 - Caching
+HTTP 2
+RFC 7540 (May 2015)
+-messages from client to server

@@ -1,0 +1,16 @@
+HTTP provides support for others such as:
+-cache control
+-content media type(MIME-Mulitipurpose Internet Mail Extensions) specification
+	-like text/html, image/png
+-language and character set specification
+	-like ASCII with 256 bytes, UNICODE, screen reader
+-content/transfer codings
+	-as-is, byte-byte-byte, compression
+-content negotiation
+-client-server protocol negotiations
+	-upgrade and downgrade of http versions
+-persistent connections
+	-keep-alive(connection)
+-request pipelining
+	-streaming request
+*content meida type(MIME) specification, content/transfer codings and content negotiation are between client and server
